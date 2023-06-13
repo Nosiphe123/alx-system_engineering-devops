@@ -1,2 +1,2 @@
 #!/bin/bashtr 
-
+printf '%x\n' $DECIMAL
