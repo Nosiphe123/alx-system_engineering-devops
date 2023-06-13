@@ -1,2 +1,2 @@
 #!/bin/bash
-egrep -i '^[a-z]' /etc/ssh/sshd_config
+tr "A" "Z" | tr "c" "e"
